@@ -47,3 +47,7 @@ Se obtiene un Hello World!
 ## ¿Cuál fue el mejor chiste que les contó el sitio?
 ![alt text](image-14.png)
 
+## En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia?
+Se utiliza el arroba (@).
+![alt text](image-15.png)
+
