@@ -51,3 +51,6 @@ Se obtiene un Hello World!
 Se utiliza el arroba (@).
 ![alt text](image-15.png)
 
+## ¿Dónde está ubicado en host bkj386?
+Está ubicado en Canadá.
+![alt text](image-16.png)
