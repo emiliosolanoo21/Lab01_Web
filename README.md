@@ -6,3 +6,10 @@ Hay un ático que se ve solo si se enciende la lámpara. Tiene un ladrillo cuadr
 
 ![alt text](image.png)
 
+## ¿Cuál es el output del programa de Brainf*ck?
+Se obtiene un Hello World!
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+
