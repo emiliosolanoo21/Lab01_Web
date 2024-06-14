@@ -29,3 +29,9 @@ Se obtiene un Hello World!
 
 ## Traduzcan la siguiente frase a clave morse: ye shall be as gods
 ![alt text](image-8.png)
+
+## ¿Cuál es la ubicación de su ip? ¿Y su ip pública?
+![alt text](image-9.png)
+![alt text](image-10.png)
+
+
