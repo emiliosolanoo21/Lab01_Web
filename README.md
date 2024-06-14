@@ -64,3 +64,7 @@ El resultado es una historia, que termina siendo un test de personalidad.
 ![alt text](image-18.png)
 ![alt text](image-19.png)
 
+## ¿Cuánto tiempo lleva encendido el server de telehack.com?
+![alt text](image-21.png)
+
+
