@@ -12,4 +12,5 @@ Se obtiene un Hello World!
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
-
+## Escriban su nombre en ASCII (ascii art, no decimal)
+![alt text](image-3.png)
