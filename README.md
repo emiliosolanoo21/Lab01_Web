@@ -44,3 +44,6 @@ Se obtiene un Hello World!
 1855
 ![alt text](image-13.png)
 
+## ¿Cuál fue el mejor chiste que les contó el sitio?
+![alt text](image-14.png)
+
