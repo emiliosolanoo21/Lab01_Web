@@ -17,3 +17,6 @@ Se obtiene un Hello World!
 
 ## ¿Cómo pide auxilio una vaca paranoica? (Deben asegurarse que la vaca sea paranoica)
 ![alt text](image-4.png)
+
+## ¿Qué respuesta les dio la psicoterapeuta a la pregunta "what is life?" (Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.)
+![alt text](image-5.png)
