@@ -27,4 +27,5 @@ Se obtiene un Hello World!
 ## ¿Cúal es la fase de la luna actual?
 ![alt text](image-7.png)
 
-
+## Traduzcan la siguiente frase a clave morse: ye shall be as gods
+![alt text](image-8.png)
