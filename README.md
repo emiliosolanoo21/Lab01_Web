@@ -37,3 +37,10 @@ Se obtiene un Hello World!
 ## Generen un código qr (ascii) para la frase: May the command line live forever
 ![alt text](image-11.png)
 
+## Copien el título, la fecha de publicación y el primer párrafo de dos de los siguientes rfc históricos:
+2324
+![alt text](image-12.png)
+
+1855
+![alt text](image-13.png)
+
