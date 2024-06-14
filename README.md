@@ -34,4 +34,6 @@ Se obtiene un Hello World!
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 
+## Generen un código qr (ascii) para la frase: May the command line live forever
+![alt text](image-11.png)
 
