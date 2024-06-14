@@ -14,3 +14,6 @@ Se obtiene un Hello World!
 
 ## Escriban su nombre en ASCII (ascii art, no decimal)
 ![alt text](image-3.png)
+
+## ¿Cómo pide auxilio una vaca paranoica? (Deben asegurarse que la vaca sea paranoica)
+![alt text](image-4.png)
