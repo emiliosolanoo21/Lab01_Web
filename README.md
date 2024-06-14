@@ -24,3 +24,7 @@ Se obtiene un Hello World!
 ## Coloquen un ejemplo de un fnord
 ![alt text](image-6.png)
 
+## ¿Cúal es la fase de la luna actual?
+![alt text](image-7.png)
+
+
