@@ -71,3 +71,5 @@ El resultado es una historia, que termina siendo un test de personalidad.
 ![alt text](image-22.png)
 ![alt text](image-23.png)
 
+## ¿Pueden dibujar un path en ascii entre esos hosts?
+![alt text](image-24.png)
