@@ -20,3 +20,7 @@ Se obtiene un Hello World!
 
 ## ¿Qué respuesta les dio la psicoterapeuta a la pregunta "what is life?" (Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.)
 ![alt text](image-5.png)
+
+## Coloquen un ejemplo de un fnord
+![alt text](image-6.png)
+
