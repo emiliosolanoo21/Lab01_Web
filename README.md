@@ -57,3 +57,10 @@ Está ubicado en Canadá.
 
 ## Busquen en usenet y escojan algún post interesante
 ![alt text](image-17.png)
+
+## En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+El resultado es una historia, que termina siendo un test de personalidad.
+![alt text](image-20.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+
