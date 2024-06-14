@@ -54,3 +54,6 @@ Se utiliza el arroba (@).
 ## ¿Dónde está ubicado en host bkj386?
 Está ubicado en Canadá.
 ![alt text](image-16.png)
+
+## Busquen en usenet y escojan algún post interesante
+![alt text](image-17.png)
