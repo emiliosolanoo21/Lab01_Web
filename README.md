@@ -67,4 +67,7 @@ El resultado es una historia, que termina siendo un test de personalidad.
 ## ¿Cuánto tiempo lleva encendido el server de telehack.com?
 ![alt text](image-21.png)
 
+## ¿Cuál es el path de tcp entre telehack.com y el host "ecord"?
+![alt text](image-22.png)
+![alt text](image-23.png)
 
